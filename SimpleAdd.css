@@ -1,0 +1,21 @@
+body{
+	background-color: blue;
+}
+#output{
+	color: red;
+	font-weight: bold;
+	font-size: x-large;
+}
+#myInput{
+	border-radius: 10px;
+	background-color: yellow;
+	font-weight: bold;
+}
+#button{
+	background-color: brown;
+	border-color: brown;
+	border-radius: 5px;
+	color: red;
+}
+
+
